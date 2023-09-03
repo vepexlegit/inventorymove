@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "de.vepexlegit.inventorymove.mixins",
+  "refmap": "mixins.inventorymove.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinEntityPlayerSP"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
