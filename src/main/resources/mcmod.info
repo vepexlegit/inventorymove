@@ -1,8 +1,8 @@
 [
 {
-  "modid": "inventorymove",
-  "name": "InventoryMove",
-  "description": "This mod allows you to walk with your inventory open",
+  "modid": "inventorymovedebug",
+  "name": "InventoryMoveDebug",
+  "description": "This mod is an addition to the main inventorymove mod.\nThis add-on will help you turn inventorymove on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
