@@ -1,0 +1,16 @@
+[
+{
+  "modid": "inventorymove",
+  "name": "InventoryMove",
+  "description": "This mod allows you to walk with your inventory open",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
